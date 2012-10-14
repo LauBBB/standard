@@ -108,19 +108,21 @@ a:visited {color: white;}
 	
 /* All col styles */
 #col {
-	background: #FFFFFf ;
+	background: #EBEBEB;
 	float: right;
 	width: 200px;
-	margin-left: 0px;
+	margin-right: 10px;
+    
 	margin-top: 0px;
-	padding: 10px;
+	padding: 0px;
 	font-size: 90%;
+    
 	}
 
 #col p {
-	background: #FFFFFF;
+	background: none;
 	padding: 5px;
-	border-left: 1px solid #879cab;
+	/*border-left: 1px solid #879cab;
 	/*border-radius: 3px;
 	border-top-left-radius: 0px;
 	border-top-right-radius: 0px;*/
@@ -131,10 +133,10 @@ a:visited {color: white;}
 #col h2 {
 		padding-bottom: 0px;
 		padding-left: 5px;
-		background-color: #879cab;
+		background-color: #1d6dac;
 		margin-bottom: 0px;
 		color: #FFFFFF;
-		border-left:  solid #879cab 1px;
+		/*border-left:  solid #1d6dac 1px;*/
 		
 		}
 		
@@ -146,11 +148,11 @@ a:visited {color: white;}
 	 width: 740px;
 	 margin: 0px;
 	 padding: 0px 5px;
-	 margin-left: 15px;
-	 margin-right: 15px;
+	 margin-left: 10px;
+	 margin-right: 0px;
 	 background: #ffffff;
-	 border-left:  solid #1d6dac 1px;
-	 border-right:  solid #1d6dac 1px;
+	 /*border-left:  solid #1d6dac 1px;
+	 border-right:  solid #1d6dac 1px;*/
 	}
 	
 
